@@ -19,12 +19,12 @@ This project provides an analysis of Pascal Siakam's career statistics, explorin
 ## Key Analysis Points
 
 - **Career Progression**: The analysis highlights Siakam's performance trends throughout his career, focusing on his scoring, rebounding, and minutes played per game.
-- **Leadership and Responsibility**: As Siakam took on a more central role after the Raptors' 2019 championship, the project analyzes how increased responsibility, such as playing more minutes and taking more shots, impacted his overall efficiency.
+- **Leadership and Responsibility**: As Siakam took on more of a leadership role, the project analyzes how increased responsibility, such as playing more minutes and taking more shots, impacted his overall efficiency.
 - **Efficiency Trends**: One of the main themes is Siakam's evolving efficiency as he transitions to being a superstar.
 - **Comparison with 2016 Draft Class**: Using data from Basketball Reference, this project also places Siakam in the context of his 2016 draft class.
 ## Data Sources
 
-The primary dataset for this analysis was retrieved from [Basketball Reference](https://www.basketball-reference.com/), including:
+The data for this project comes from [Basketball Reference](https://www.basketball-reference.com/), including:
 - Pascal Siakam's career statistics
 - 2016 NBA Draft Class statistics
 
@@ -36,10 +36,12 @@ The project only used python. We also used 2 librairies that let us easily acces
 
 ## Execution & Reproducibility
 
-- The notebook can be executed in various environments:
+- The notebook can be executed with:
   - [Google Colab](https://colab.research.google.com/)
   - [Callysto](https://callysto.ca/)
   - [2i2c Hub](https://2i2c.org/)
+
+The python code is also present.
 
 Feel free to rerun the notebook with updated datasets to see the latest results, as NBA statistics change throughout the season.
 
